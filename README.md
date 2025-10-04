@@ -26,10 +26,7 @@ Install (basic):
 ```bash
 git clone https://github.com/sherwoodchaser/uniqurl.git
 cd uniqurls
-# Optional virtualenv
-python3 -m venv venv
-source venv/bin/activate
-# No extra packages required for core functionality.
+python3 uniqurls.py -h
 ```
 
 🧭 Usage (examples)
